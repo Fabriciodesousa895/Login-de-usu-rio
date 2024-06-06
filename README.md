@@ -13,5 +13,6 @@ A TABELA LOG_LOGIN REGISTRA A SESSÃO DO USUÁRIO REGISTRANDO:
   9.ID
 
   O back end fica responsável por identificar a entrada e saida do usuário e atualizar o registro do banco com base no token.
+  OBS: Neste memso repositório temos o resultado do sql no arquivo SQL_LOGIN.png
   
   
